@@ -1,0 +1,20 @@
+.Container
+{
+    border: 1px solid red;
+    display: flex;
+    flex-wrap: wrap;
+    
+    /* background-color: red; */
+}
+
+.grid
+{
+    border: 0.1px solid green;
+    width: calc(100%/16); 
+    /* padding-top: 100px; */
+    aspect-ratio: 1/1;
+    /* position: absolute; */
+    /* height: 100px; */
+    box-sizing: border-box;
+    /* margin: ; */
+}
